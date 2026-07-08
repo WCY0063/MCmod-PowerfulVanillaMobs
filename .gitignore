@@ -1,0 +1,27 @@
+# Build outputs
+build/
+.gradle/
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.run/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Gradle
+gradle-temp/
+gradle-temp.zip
+jdk21-temp.zip
+build-mod.bat
+
+# Crash / temp
+crash-temp/
